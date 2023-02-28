@@ -2,11 +2,12 @@
 
 ## What I Practice
 
- - `react-touch-carousel` component
- -`tailwind` için `line-clamp`
- - For add cart notifications `react-hot-toast` 
- - Lots of tailwind :)
-
+ - `react-helmet` edit for title ena description
+ -bootsrap
+ - React-zoom zoom for images 
+ - SASS - i edited to used  for only the repeat values
+ - it may be continued, has been development as design
+ 
 ### `Screen` </br>
 
 ![](screen1.gif)  
