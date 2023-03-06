@@ -7,7 +7,11 @@
  - React-zoom zoom for images 
  - SASS - i edited to used  for only the repeat values
  - it may be continued, has been development as design
- 
+
+### `Deploy`
+
+https://modern-ecommerse-website.netlify.app/
+
 ### `Screen` </br>
 
 ![](screen1.gif)  
