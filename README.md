@@ -9,7 +9,7 @@
  - it may be continued, has been development as design
 
 ### `Deploy`
-https://www.svgrepo.com/show/376339/netlify.svg
+![Deploy](https://www.svgrepo.com/show/376339/netlify.svg)
 https://modern-ecommerse-website.netlify.app/
 
 ### `Screen` </br>
