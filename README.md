@@ -9,7 +9,7 @@
  - it may be continued, has been development as design
 
 ### `Deploy`
-![Deploy](https://www.svgrepo.com/show/376339/netlify.svg)
+<img src="https://www.svgrepo.com/show/376339/netlify.svg" ald="Cloud Image" widt='40' height='40' />
 https://modern-ecommerse-website.netlify.app/
 
 ### `Screen` </br>
