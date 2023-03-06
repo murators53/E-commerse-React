@@ -8,7 +8,7 @@
  - SASS - i edited to used  for only the repeat values
  - it may be continued, has been development as design
 
-### `Deploy`  `<img src="https://www.svgrepo.com/show/376339/netlify.svg" ald="Cloud Image" widt='20' height='20' />`
+### `Deploy` <img src="https://www.svgrepo.com/show/376339/netlify.svg" ald="Cloud Image" widt='30' height='30' />
 
 https://modern-ecommerse-website.netlify.app/
 
